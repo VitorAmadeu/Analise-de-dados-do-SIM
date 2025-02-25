@@ -21,8 +21,3 @@ O projeto abrange as seguintes etapas de análise de dados:
 
 - **Modelos de Séries Temporais**: Aplicação de modelos como ARIMA, SARIMA e outros para prever comportamentos futuros de mortalidade com base em dados históricos.
 - **Avaliação do Modelo**: Validação dos modelos com métricas apropriadas, como RMSE (Root Mean Squared Error), MAPE (Mean Absolute Percentage Error) e outras métricas relevantes para séries temporais.
-
-### Passos para Execução:
-
-1. **Fazer o Download do Código**: Baixe os arquivos do repositório.
-2. **Instalar Dependências**: Instale as bibliotecas necessárias, como `pandas`, `numpy`, `matplotlib`, `statsmodels` e outras para análise de séries temporais.
