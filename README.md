@@ -25,4 +25,4 @@ O projeto abrange as seguintes etapas de análise de dados:
 ### Passos para Execução:
 
 1. **Fazer o Download do Código**: Baixe os arquivos do repositório.
-2. **Instalar Dependências**: Instale as bibliotecas necessárias, como `pandas`, `numpy`, `matplotlib`, `statsmodels` e outras para análise de séries temporais. Execute o seguinte comando no seu terminal para instalar as dependências:
+2. **Instalar Dependências**: Instale as bibliotecas necessárias, como `pandas`, `numpy`, `matplotlib`, `statsmodels` e outras para análise de séries temporais.
