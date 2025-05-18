@@ -1,4 +1,8 @@
-# Análise de Dados do SIM - Sistema de Informações sobre Mortalidade
+# Análise de Dados sobre mortalidade por infarto agudo do mioçardio- Refrência e fontes de dados  Sistema de Informações sobre Mortalidade (SIM)
+
+Sobre os autores: 
+Vitor Hugo Amadeu
+Profa. Dra. Elisangela Lizzi
 
 Este repositório contém o trabalho de análise de dados do SIM (Sistema de Informações sobre Mortalidade), onde foi realizado um processo completo de ETL (Extração, Transformação e Carga) e análise das variáveis relacionadas à mortalidade. O objetivo do projeto é aplicar modelos de análise de séries temporais para identificar padrões e fazer previsões sobre a mortalidade ao longo do tempo.
 
