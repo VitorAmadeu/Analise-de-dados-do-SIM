@@ -1,4 +1,4 @@
-# Análise de Dados sobre mortalidade por infarto agudo do mioçardio- Refrência e fontes de dados  Sistema de Informações sobre Mortalidade (SIM)
+# Análise de Dados sobre mortalidade por infarto agudo do miocardio- Refrência e fontes de dados  Sistema de Informações sobre Mortalidade (SIM)
 
 Sobre os autores: 
 Vitor Hugo Amadeu
