@@ -23,5 +23,5 @@ O projeto abrange as seguintes etapas de análise de dados:
 
 ### Modelagem de Séries Temporais
 
-- **Modelos de Séries Temporais**: Aplicação de modelos como ARIMA, SARIMA e outros para prever comportamentos futuros de mortalidade com base em dados históricos.
+- **Modelos de Séries Temporais**: Aplicação de alisamento de séries temporais, modelos como ARIMA, SARIMA e métodos de aprendizado de máquina LSTM e suas variações para verificar a estabilidade para prever comportamentos futuros de mortalidade com base em dados históricos.
 - **Avaliação do Modelo**: Validação dos modelos com métricas apropriadas, como RMSE (Root Mean Squared Error), MAPE (Mean Absolute Percentage Error) e outras métricas relevantes para séries temporais.
